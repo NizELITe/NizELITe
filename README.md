@@ -155,12 +155,12 @@ The full agri-tech product suite — soil and irrigation intelligence for farmer
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://mystats-psi.vercel.app/api?username=NizELITe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=15211F&title_color=E7B75F&icon_color=5AD1E5&text_color=BFD4C6&ring_color=5AD1E5" />
-<img height="170" alt="Top languages" src="https://mystats-psi.vercel.app/api/top-langs/?username=NizELITe&layout=compact&langs_count=8&hide_border=true&bg_color=15211F&title_color=E7B75F&text_color=BFD4C6" />
+<img height="170" alt="GitHub stats" src="https://mystats-psi.vercel.app/api?username=NizELITe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=15211F&title_color=E7B75F&icon_color=5AD1E5&text_color=BFD4C6&ring_color=5AD1E5&cache_bust=2" />
+<img height="170" alt="Top languages" src="https://mystats-psi.vercel.app/api/top-langs/?username=NizELITe&layout=compact&langs_count=8&hide_border=true&bg_color=15211F&title_color=E7B75F&text_color=BFD4C6&cache_bust=2" />
 
 <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=NizELITe&hide_border=true&background=15211F&ring=5AD1E5&fire=E7B75F&currStreakLabel=E7B75F&sideLabels=BFD4C6&currStreakNum=F4F1E9&sideNums=F4F1E9&dates=6F8A7D" />
 
-<img alt="Contribution graph" src="https://activitygraph-beta.vercel.app/graph?username=NizELITe&hide_border=true&bg_color=15211F&color=E7B75F&line=5AD1E5&point=F4F1E9&area=true&area_color=1F3A33&title_color=E7B75F&custom_title=contribution%20activity" />
+<img alt="Contribution graph" src="https://activitygraph-beta.vercel.app/graph?username=NizELITe&hide_border=true&bg_color=15211F&color=E7B75F&line=5AD1E5&point=F4F1E9&area=true&area_color=1F3A33&title_color=E7B75F&custom_title=contribution%20activity&cache_bust=2" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NizELITe/NizELITe/output/snake-dark.svg" />
