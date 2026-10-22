@@ -72,7 +72,9 @@ Blockchain identity verification with a smart-contract registry, Metamask wallet
 <td colspan="2" valign="top">
 
 ### 🌱 Earthrenewal.AI
-The full agri-tech product suite — soil and irrigation intelligence for farmers — built and shipped end to end as co-founder. <a href="[[https://earthrenewal.com](https://www.earthrenewalai.com/)](https://www.earthrenewalai.com/)">earthrenewalai.com</a>
+The full agri-tech product suite delivering AI-powered soil and irrigation intelligence for farmers, built and shipped end-to-end as Co-Founder.
+
+🌐 [earthrenewalai.com](https://www.earthrenewalai.com/)
 
 </td>
 </tr>
